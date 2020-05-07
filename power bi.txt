@@ -1,0 +1,30 @@
+(___Power bi desktop(free)___)
+
+
+
+Power BI Desktop is tailored for small business and individuals
+who want to get more insights from with data. 
+
+Large scale collaboration and integration is not always necessary 
+and if that sounds like you Desktop is a very comprehensive solution.
+--------------------------------------------------------------------------
+
+
+(___Power bi pro($9.99)___)
+
+
+
+Power BI Desktop does not allow you to publish your reports and dashboards to web privately.
+
+Both Power BI Desktop have 8 data refreshes a day with a minimum of 30 minutes between each.
+
+Power BI Desktop does not integrate with Office 365 applications so reports cannot be exported to CSV or PPTX.
+--------------------------------------------------------------------------------------------------------------
+
+
+(___Power bi premium($4,995)___)
+
+Premium will only be cost effective for organizations with large deployments in terms 
+of storage usage or hundreds of users
+
+The processing environment is dedicated as opposed to the shared environment with Pro and Free.
